@@ -1,0 +1,7 @@
+race_track_type,vehicle_type,max_vehicles_allowed,cost_per_hour
+'regular','bike',4,60
+'regular','car',2,120
+'vip','car',1,250
+'regular','suv',2,200
+'vip','suv',1,300
+ 
